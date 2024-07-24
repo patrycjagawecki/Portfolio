@@ -1,3 +1,1 @@
-## Aspiring Data Analyst
-
 # Experience:
