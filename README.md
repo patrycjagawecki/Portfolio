@@ -17,7 +17,7 @@ Thank you for taking the time to get to know me and learn about my background an
 
 Tools used: Microsoft Excel (Data Cleaning), SQL (Data Querying), Tableau (Data Visualization)
 
-I presented this project to a private equity broker at a previous company I interned at by analyzing his CRM system in Excel filled with 
+I presented this project to a private equity broker at a previous company I interned at by analyzing his CRM system in Excel filled with information such as dials and pick ups, locations, positions within their company, and more. With that information, I presented data on information such as what type of executives are most likely to pick up a cold call or what time they would pick up. With that information, I opened eyes to new strategies that have been successful in business expansion. 
 
 
 
