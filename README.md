@@ -12,6 +12,8 @@ Currently, I am strengthening my skills through practical projects that delve in
 
 Thank you for taking the time to get to know me and learn about my background and skills!
 
+# Executive Reactions to Cold Calling
+[Behaviors of Company Leaders (Data Analysis).pdf](https://github.com/user-attachments/files/16369218/Behaviors.of.Company.Leaders.Data.Analysis.pdf)
 
 
 
