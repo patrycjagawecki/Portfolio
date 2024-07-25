@@ -1,7 +1,7 @@
 
 # Data Analytics Portfolio
 
-# Linkedin: https://www.linkedin.com/in/patrycja-gawecki-81b89726a/
+Linkedin: https://www.linkedin.com/in/patrycja-gawecki-81b89726a/
 
 # Introduction
 Hi there! I'm Patrycja, a passionate BBA student majoring in Data Analytics at Baruch College. With a strong interest in marketing and finance, I'm eager to apply my skills and knowledge in these dynamic fields.
