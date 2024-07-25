@@ -15,6 +15,9 @@ Thank you for taking the time to get to know me and learn about my background an
 # Executive Reactions to Cold Calling
 [Behaviors of Company Leaders (Data Analysis).pdf](https://github.com/user-attachments/files/16369218/Behaviors.of.Company.Leaders.Data.Analysis.pdf)
 
+Tools used: Microsoft Excel (Data Cleaning), SQL (Data Querying), Tableau (Data Visualization)
+
+I presented this project to a private equity broker at a previous company I interned at by analyzing his CRM system in Excel filled with 
 
 
 
