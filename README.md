@@ -10,16 +10,13 @@ Hi, I’m Patrycja, and I’m pursuing a Bachelor of Business Administration in 
 ## Experience
 
 - **Sompo International** (September 2024 - Present)  
-  *Role:* Audit Intern (Data Analytics)  
-  *Responsibilities:* [Briefly describe your responsibilities and achievements]
+  *Role:* Audit Intern (Data Analytics) 
 
 - **Digitas** (June 2024 - August 2024)  
   *Role:* Data and Analytics Intern  
-  *Responsibilities:* [Briefly describe your responsibilities and achievements]
 
 - **Forte Capital Group** (November 2023 - March 2024)  
   *Role:* Private Equity Intern  
-  *Responsibilities:* [Briefly describe your responsibilities and achievements]
 
 Thank you for taking the time to get to know me and learn about my background and skills!
 
