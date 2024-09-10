@@ -6,15 +6,18 @@ LinkedIn: https://www.linkedin.com/in/patrycja-gawecki-81b89726a/
 # Introduction
 Hi, I’m Patrycja, and I’m pursuing a Bachelor of Business Administration in Data Analytics at Baruch College. With a strong interest in marketing, finance, and technology, I am excited to leverage my skills in these dynamic fields. I am proficient in Python, SQL, Tableau, and PowerBI. Through various projects, coursework, and practical experiences, I use data to drive solutions and create meaningful impacts.
 
-# Experience:
+Experience:
 
 Sompo International (September 2024-Present)
+
 Role: Audit Intern (Data Analytics)
 
 Digitas (June 2024-August 2024)
+
 Role: Data and Analytics Intern
 
 Forte Capital Group (November 2023-March 2024)
+
 Role: Private Equity Intern
 
 Thank you for taking the time to get to know me and learn about my background and skills!
