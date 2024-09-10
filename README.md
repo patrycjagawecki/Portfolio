@@ -4,11 +4,18 @@
 LinkedIn: https://www.linkedin.com/in/patrycja-gawecki-81b89726a/
 
 # Introduction
-Hi there! I'm Patrycja, a passionate BBA student majoring in Data Analytics at Baruch College. With a strong interest in marketing and finance, I'm eager to apply my skills and knowledge in these dynamic fields.
+Hi, I’m Patrycja, and I’m pursuing a Bachelor of Business Administration in Data Analytics at Baruch College. With a strong interest in marketing, finance, and technology, I am excited to leverage my skills in these dynamic fields. I am proficient in Python, SQL, Tableau, and PowerBI. Through various projects, coursework, and practical experiences, I use data to drive solutions and create meaningful impacts.
 
-I bring hands-on experience with various tools crucial to data analysis and visualization, including Microsoft Excel for data manipulation, Python and SQL for database management and querying, and Tableau and PowerBI for insightful data visualization.
+# Experience:
 
-Currently, I am strengthening my skills through practical projects that delve into market research, financial modeling, and consumer behavior analysis, or even fun projects that align with my interests outside of the workplace. My academic coursework has provided me with a solid foundation in statistical analysis and predictive modeling, which I aim to leverage in my future career. 
+Sompo International (September 2024-Present)
+Role: Audit Intern (Data Analytics)
+
+Digitas (June 2024-August 2024)
+Role: Data and Analytics Intern
+
+Forte Capital Group (November 2023-March 2024)
+Role: Private Equity Intern
 
 Thank you for taking the time to get to know me and learn about my background and skills!
 
@@ -17,7 +24,7 @@ Thank you for taking the time to get to know me and learn about my background an
 
 Tools used: Microsoft Excel (Data Cleaning), SQL (Data Querying), Tableau (Data Visualization)
 
-I presented this project to a private equity broker at a previous company I interned at by analyzing his CRM system in Excel filled with information such as dials and pick ups, locations, positions within their company, and more. With that information, I presented data on information such as what type of executives are most likely to pick up a cold call or what time they would pick up. Providing that analysis, I presented insights to create new strategies that have been successful in business expansion. 
+I presented this project to a private equity broker at a previous company I interned at by analyzing his CRM system in Excel filled with information such as dials and pick-ups, locations, positions within their company, and more. With that information, I presented data on information such as what type of executives are most likely to pick up a cold call or what time they would pick up. Providing that analysis, I presented insights to create new strategies that have been successful in business expansion. 
 
 
 
