@@ -15,9 +15,6 @@ Hi, I’m Patrycja, and I’m pursuing a Bachelor of Business Administration in 
 - **Digitas** (June 2024 - August 2024)  
   *Role:* Data and Analytics Intern  
 
-- **Forte Capital Group** (November 2023 - March 2024)  
-  *Role:* Private Equity Intern  
-
 Thank you for taking the time to get to know me and learn about my background and skills!
 
 
