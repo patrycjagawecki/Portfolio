@@ -23,7 +23,7 @@ Tools Used: Python (SckitLearn, MatPlotLib, Pandas, Numpy)
 
 This project focuses on building and evaluating machine learning models to predict the stages of liver cirrhosis based on a dataset with various medical and demographic features. Four classification models (Logistic Regression, K-Nearest Neighbors (KNN), Random Forest, and Support Vector Classifier (SVC)) were trained and tested to determine the most effective approach for accurate predictions.
 
-
+Code:
 
 # Executive Reactions to Cold Calling
 [Behaviors of Company Leaders (Data Analysis).pdf](https://github.com/user-attachments/files/16369218/Behaviors.of.Company.Leaders.Data.Analysis.pdf)
