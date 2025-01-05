@@ -17,6 +17,13 @@ Hi, I’m Patrycja, and I’m pursuing a Bachelor of Business Administration in 
 
 Thank you for taking the time to get to know me and learn about my background and skills!
 
+# Machine Learning Models to Accurately Predict Liver Cirrhosis Stage
+
+Tools Used: Python (SckitLearn, MatPlotLib, Pandas, Numpy)
+
+This project focuses on building and evaluating machine learning models to predict the stages of liver cirrhosis based on a dataset with various medical and demographic features. Four classification models (Logistic Regression, K-Nearest Neighbors (KNN), Random Forest, and Support Vector Classifier (SVC)) were trained and tested to determine the most effective approach for accurate predictions.
+
+
 
 # Executive Reactions to Cold Calling
 [Behaviors of Company Leaders (Data Analysis).pdf](https://github.com/user-attachments/files/16369218/Behaviors.of.Company.Leaders.Data.Analysis.pdf)
