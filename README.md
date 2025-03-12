@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Hi, I’m Patrycja, and I’m pursuing a Bachelor of Business Administration in Data Analytics at Baruch College. With a strong interest in marketing and technology, I am excited to leverage my skills in these dynamic fields. I am proficient in Python, SQL, Tableau, and PowerBI. Through various projects, coursework, and practical experiences, I use data to drive solutions and create meaningful impacts.
+Hi, I’m Patrycja, and I’m pursuing a Bachelor of Business Administration in Data Analytics at Baruch College. With a strong interest in marketing and technology, I am excited to leverage my skills in these dynamic fields. I am proficient in Python, SQL, Tableau, PowerBI, and more. Through various projects, coursework, and practical experiences, I use data to drive solutions and create meaningful impacts.
 
 ## Data Analytics Experience
 
