@@ -23,6 +23,8 @@ Tools Used: Python (SckitLean, MatPlotLib, Pandas, Numpy)
 
 This project focuses on an extensive movie analysis using a diverse sample of movies from the OMDb API, creating machine learning models and visualizations to assist professionals in determining the success of a movie and its influencing factors. A linear regression model was developed to predict box office values based on multiple predictors, and a KMeans clustering algorithm was used to categorize movies into successful and unsuccessful groups, aiding in the identification of common factors within each category.
 
+Code: [IMDb Movie Success Prediction Model](https://github.com/patrycjagawecki/PortfolioProjects/blob/main/IMDb%20Movie%20Success%20Prediction%20Model.ipynb)
+
 # Machine Learning Models to Accurately Predict Liver Cirrhosis Stage
 
 Tools Used: Python (SckitLearn, MatPlotLib, Pandas, Numpy)
