@@ -17,6 +17,12 @@ Hi, I’m Patrycja, and I’m pursuing a Bachelor of Business Administration in 
 
 Thank you for taking the time to get to know me and learn about my background and skills!
 
+# IMDb Movie Success Prediction Model
+
+Tools Used: Python (SckitLean, MatPlotLib, Pandas, Numpy)
+
+This project focuses on an extensive movie analysis using a diverse sample of movies from the OMDb API, creating machine learning models and visualizations to assist professionals in determining the success of a movie and its influencing factors. A linear regression model was developed to predict box office values based on multiple predictors, and a KMeans clustering algorithm was used to categorize movies into successful and unsuccessful groups, aiding in the identification of common factors within each category.
+
 # Machine Learning Models to Accurately Predict Liver Cirrhosis Stage
 
 Tools Used: Python (SckitLearn, MatPlotLib, Pandas, Numpy)
