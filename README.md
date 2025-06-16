@@ -19,8 +19,11 @@ Thank you for taking the time to get to know me and learn about my background an
 
 # Historical Flight Data Warehouse
 
-Tools Used: Python (Pandas), Snowflake, PowerBI
+Tools Used: Azure, Python (Pandas), Snowflake, PowerBI
+
 [Github Repository Link](https://github.com/patrycjagawecki/HistoricalFlightData)
+
+This project analyzes historical flight data from major U.S. departure airports using an ELT pipeline to uncover insights on delays, cancellations, and peak travel periods. The goal is to inform decision-makers entering the airline market about competitor performance and operational patterns. Over 8 million flight records were processed to develop an interactive Power BI dashboard that supports strategic planning and data-driven decision-making.
 
 # IMDb Movie Success Prediction Model
 
