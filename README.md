@@ -17,6 +17,11 @@ Hi, I’m Patrycja, and I’m pursuing a Bachelor of Business Administration in 
 
 Thank you for taking the time to get to know me and learn about my background and skills!
 
+# Historical Flight Data Warehouse
+
+Tools Used: Python (Pandas), Snowflake, PowerBI
+[Github Repository Link](https://github.com/patrycjagawecki/HistoricalFlightData)
+
 # IMDb Movie Success Prediction Model
 
 Tools Used: Python (SckitLean, MatPlotLib, Pandas, Numpy)
