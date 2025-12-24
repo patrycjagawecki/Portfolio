@@ -1,5 +1,5 @@
 
-# Data Analytics Portfolio
+# Data Science Portfolio
 
 [LinkedIn: Patrycja Gawecki](https://www.linkedin.com/in/patrycja-gawecki-81b89726a/)
 
