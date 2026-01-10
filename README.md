@@ -33,19 +33,19 @@ This project analyzes historical flight data from major U.S. departure airports 
 
 # IMDb Movie Success Prediction Model
 
+Code: [IMDb Movie Success Prediction Model](https://github.com/patrycjagawecki/PortfolioProjects/blob/main/IMDb%20Movie%20Success%20Prediction%20Model.ipynb)
+
 Tools Used: Python (SckitLean, MatPlotLib, Pandas, Numpy)
 
 This project focuses on an extensive movie analysis using a diverse sample of movies from the OMDb API, creating machine learning models and visualizations to assist professionals in determining the success of a movie and its influencing factors. A linear regression model was developed to predict box office values based on multiple predictors, and a KMeans clustering algorithm was used to categorize movies into successful and unsuccessful groups, aiding in the identification of common factors within each category.
 
-Code: [IMDb Movie Success Prediction Model](https://github.com/patrycjagawecki/PortfolioProjects/blob/main/IMDb%20Movie%20Success%20Prediction%20Model.ipynb)
-
 # Machine Learning Models to Accurately Predict Liver Cirrhosis Stage
+
+Code: [Machine Learning Models to Predict Liver Cirrhosis Stage](https://github.com/patrycjagawecki/PortfolioProjects/blob/main/Machine%20Learning%20Models%20to%20Predict%20Liver%20Cirrhosis%20Stage.ipynb)
 
 Tools Used: Python (SckitLearn, MatPlotLib, Pandas, Numpy)
 
 This project focuses on building and evaluating machine learning models to predict the stages of liver cirrhosis based on a dataset with various medical and demographic features. Four classification models (Logistic Regression, K-Nearest Neighbors (KNN), Random Forest, and Support Vector Classifier (SVC)) were trained and tested to determine the most effective approach for accurate predictions.
-
-Code: [Machine Learning Models to Predict Liver Cirrhosis Stage](https://github.com/patrycjagawecki/PortfolioProjects/blob/main/Machine%20Learning%20Models%20to%20Predict%20Liver%20Cirrhosis%20Stage.ipynb)
 
 # Executive Reactions to Cold Calling
 [Behaviors of Company Leaders (Data Analysis).pdf](https://github.com/user-attachments/files/16369218/Behaviors.of.Company.Leaders.Data.Analysis.pdf)
