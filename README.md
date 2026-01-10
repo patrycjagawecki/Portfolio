@@ -19,15 +19,17 @@ Thank you for taking the time to get to know me and learn about my background an
 
 # Weightlifting Journal Flask Application
 
+[Github Repository Link](https://github.com/patrycjagawecki/WeightLiftingFlaskApplication)
+
 Tools Used: Python (Flask, Flask-SQLAlchemy, Gunicorn, PyMySQL), HTML, Docker, Google Cloud Platform
 
 The goal of this project is to create a full-stack weightlifting journal web application that allows users to log and track their training sessions. Users can record details such as lift date, training day type, exercise name, and weight lifted (in pounds). As a weightlifter outside of my career in data science, I view each lift as part of a larger story of progress, consistency, and experimentation. This project leverages my technical skills to turn that story into a structured, interactive webpage where training data can be logged, explored, and displayed over time. I utilized Python to write a script to create and interact with the database, MySQL to store data, HTML to design the frontend and script form entry, and Google Cloud Platform for deployment and hosting, with data stored in a CloudSQL instance.
 
 # Historical Flight Data Warehouse
 
-Tools Used: Azure, Python (Pandas), Snowflake, PowerBI
-
 [Github Repository Link](https://github.com/patrycjagawecki/HistoricalFlightData)
+
+Tools Used: Azure, Python (Pandas), Snowflake, PowerBI
 
 This project analyzes historical flight data from major U.S. departure airports using an ELT pipeline to uncover insights on delays, cancellations, and peak travel periods. The goal is to inform decision-makers entering the airline market about competitor performance and operational patterns. Over 8 million flight records were processed to develop an interactive Power BI dashboard that supports strategic planning and data-driven decision-making.
 
