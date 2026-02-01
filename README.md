@@ -9,10 +9,13 @@ Hi, I’m Patrycja, and I am currently a Data Analyst in Internal Audit. I have 
 
 ## Data Analytics Experience
 
-- **Sompo International** (September 2024 - Present)  
-  *Role:* Audit Intern (Data Analytics) 
+- **Sompo International**
+  
+  *Current Role:* Internal Audit Data Analyst (February 2026-Present)  
+  *Previous Role:* Audit Intern (Data Analytics) (September 2024-February 2026)
 
-- **Digitas** (June 2024 - August 2024)  
+- **Digitas** (June 2024 - August 2024)
+    
   *Role:* Data and Analytics Intern  
 
 Thank you for taking the time to get to know me and learn about my background and skills!
